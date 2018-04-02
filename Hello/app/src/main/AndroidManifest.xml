@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="hello.ruiheli.washington.edu.hello">
+    package="edu.washington.ruihli.hello">
 
     <application
         android:allowBackup="true"

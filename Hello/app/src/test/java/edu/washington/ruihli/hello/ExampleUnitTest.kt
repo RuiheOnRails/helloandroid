@@ -1,4 +1,4 @@
-package hello.ruiheli.washington.edu.hello
+package edu.washington.ruihli.hello
 
 import org.junit.Test
 

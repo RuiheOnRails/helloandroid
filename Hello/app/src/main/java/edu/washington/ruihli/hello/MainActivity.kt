@@ -1,4 +1,4 @@
-package hello.ruiheli.washington.edu.hello
+package edu.washington.ruihli.hello
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
